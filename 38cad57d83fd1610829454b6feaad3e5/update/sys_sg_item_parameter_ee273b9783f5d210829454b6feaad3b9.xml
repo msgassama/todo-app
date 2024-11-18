@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>To Do Projects sys_id</name>
+        <parent>a2273b9783f5d210829454b6feaad3a0</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 20:48:51</sys_created_on>
+        <sys_id>ee273b9783f5d210829454b6feaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Projects sys_id</sys_name>
+        <sys_package display_value="To Do" source="x_1038503_to_do">38cad57d83fd1610829454b6feaad3e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">38cad57d83fd1610829454b6feaad3e5</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ee273b9783f5d210829454b6feaad3b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 20:48:51</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

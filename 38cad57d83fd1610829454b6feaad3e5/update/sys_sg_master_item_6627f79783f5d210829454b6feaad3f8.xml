@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1038503_to_do_to_do</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My To Dos Form Screen">2a27f79783f5d210829454b6feaad3f4</embedded_screen>
+        <item_view/>
+        <name>My To Dos Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 20:48:50</sys_created_on>
+        <sys_id>6627f79783f5d210829454b6feaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My To Dos Form Screen Master Item</sys_name>
+        <sys_package display_value="To Do" source="x_1038503_to_do">38cad57d83fd1610829454b6feaad3e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">38cad57d83fd1610829454b6feaad3e5</sys_scope>
+        <sys_update_name>sys_sg_master_item_6627f79783f5d210829454b6feaad3f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 20:48:50</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My To Dos List Screen View Config">5227f79783f5d210829454b6feaad333</view_config>
+    </sys_sg_master_item>
+</record_update>
