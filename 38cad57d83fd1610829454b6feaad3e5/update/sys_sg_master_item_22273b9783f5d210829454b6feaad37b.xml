@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1038503_to_do_to_do_project</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="To Do Projects Form Screen">e2273b9783f5d210829454b6feaad377</embedded_screen>
+        <item_view/>
+        <name>To Do Projects Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 20:48:51</sys_created_on>
+        <sys_id>22273b9783f5d210829454b6feaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Projects Form Screen Master Item</sys_name>
+        <sys_package display_value="To Do" source="x_1038503_to_do">38cad57d83fd1610829454b6feaad3e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">38cad57d83fd1610829454b6feaad3e5</sys_scope>
+        <sys_update_name>sys_sg_master_item_22273b9783f5d210829454b6feaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 20:48:51</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="To Do Projects List Screen View Config">2a273b9783f5d210829454b6feaad351</view_config>
+    </sys_sg_master_item>
+</record_update>

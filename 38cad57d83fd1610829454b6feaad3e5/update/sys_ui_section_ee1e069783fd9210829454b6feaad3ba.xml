@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ee1e069783fd9210829454b6feaad3ba" sys_domain="global" table="x_1038503_to_do_to_do" version="3" view="workspace-to-do-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_do_item</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>aa1e469783fd9210829454b6feaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>a61e469783fd9210829454b6feaad3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>a21e469783fd9210829454b6feaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>aa1e469783fd9210829454b6feaad3f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>aa1e469783fd9210829454b6feaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>a21e469783fd9210829454b6feaad3f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>send_reminder</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_id>a21e469783fd9210829454b6feaad3f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1038503_to_do_to_do" sys_domain="global" view="d01ec29774fd92104bf6b3c2d812f33c">ee1e069783fd9210829454b6feaad3ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1038503_to_do_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-16 13:09:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee1e069783fd9210829454b6feaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1038503_to_do_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_1038503_to_do">38cad57d83fd1610829454b6feaad3e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">38cad57d83fd1610829454b6feaad3e5</sys_scope>
+            <sys_update_name>sys_ui_section_ee1e069783fd9210829454b6feaad3ba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-16 13:09:49</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace To Do Workspace 0" name="workspace-to-do-workspace-0">d01ec29774fd92104bf6b3c2d812f33c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
